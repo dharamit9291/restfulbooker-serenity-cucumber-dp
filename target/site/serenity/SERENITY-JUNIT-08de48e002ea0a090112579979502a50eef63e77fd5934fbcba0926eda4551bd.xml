@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="com.restfulbooker.bookininfo.BookingDataDrivenTest" skipped="0" tests="25" time="95.53" timestamp="2023-01-09T20:38:11.911Z[Europe/London]"><testcase classname="com.restfulbooker.bookininfo.BookingDataDrivenTest" name="Data Driven test for adding multiple bookings to the application"/></testsuite>
